@@ -1,2 +1,1 @@
-# KingOfBots
-通过Springboot+Vue3架构实验联机游戏对战网站
+#### 一个伟大的史诗级巨著
